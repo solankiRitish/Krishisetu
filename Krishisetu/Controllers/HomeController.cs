@@ -13,14 +13,69 @@ namespace Krishisetu.Controllers
             _logger = logger;
         }
 
+        ublic IActionResult Profile()
+        {
+            return View();
+        }
         public IActionResult Index()
         {
             return View();
         }
 
-        public IActionResult Privacy()
+        public IActionResult Register()
         {
             return View();
+        }
+
+        public IActionResult Weather()
+        {
+            return View();
+        }
+
+        public IActionResult Farmer()
+        {
+            return View();
+        }
+
+        public IActionResult Driver()
+        {
+            return View();
+        }
+
+        public IActionResult Seller()
+        {
+            return View();
+        }
+
+        public IActionResult Buyer()
+        {
+            return View();
+        }
+
+        public IActionResult Famer_Posts()
+        {
+            return View();
+        }
+
+        public IActionResult Driver_posts()
+        {
+            return View();
+        }
+
+        public IActionResult Seller_posts()
+        {
+            return View();
+        }
+
+        public IActionResult Buyer_posts()
+        {
+            return View();
+        }
+
+        public IActionResult Logout()
+        {
+
+            return View("LogoutLoading");
         }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
