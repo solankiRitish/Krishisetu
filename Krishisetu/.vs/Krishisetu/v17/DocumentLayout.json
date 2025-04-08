@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "D:\\Krishisetu\\Krishisetu\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CD0850C9-FB7D-4EBC-BEC0-0E6C23CF0781}|Krishisetu.csproj|d:\\krishisetu\\krishisetu\\wwwroot\\css\\layout.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{CD0850C9-FB7D-4EBC-BEC0-0E6C23CF0781}|Krishisetu.csproj|solutionrelative:wwwroot\\css\\layout.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD0850C9-FB7D-4EBC-BEC0-0E6C23CF0781}|Krishisetu.csproj|d:\\krishisetu\\krishisetu\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CD0850C9-FB7D-4EBC-BEC0-0E6C23CF0781}|Krishisetu.csproj|solutionrelative:controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CD0850C9-FB7D-4EBC-BEC0-0E6C23CF0781}|Krishisetu.csproj|d:\\krishisetu\\krishisetu\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CD0850C9-FB7D-4EBC-BEC0-0E6C23CF0781}|Krishisetu.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -39,27 +35,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "layout.css",
-              "DocumentMoniker": "D:\\Krishisetu\\Krishisetu\\wwwroot\\css\\layout.css",
-              "RelativeDocumentMoniker": "wwwroot\\css\\layout.css",
-              "ToolTip": "D:\\Krishisetu\\Krishisetu\\wwwroot\\css\\layout.css",
-              "RelativeToolTip": "wwwroot\\css\\layout.css",
-              "ViewState": "AgIAAHIAAAAAAAAAAAAAAJwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-04-05T16:01:56.282Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "LoginController.cs",
-              "DocumentMoniker": "D:\\Krishisetu\\Krishisetu\\Controllers\\LoginController.cs",
-              "RelativeDocumentMoniker": "Controllers\\LoginController.cs",
-              "ToolTip": "D:\\Krishisetu\\Krishisetu\\Controllers\\LoginController.cs",
-              "RelativeToolTip": "Controllers\\LoginController.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAYwCYAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T15:58:42.367Z",
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Krishisetu\\Krishisetu\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Krishisetu\\Krishisetu\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-05T15:42:09.176Z",
               "EditorCaption": ""
             }
           ]
